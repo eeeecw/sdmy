@@ -1,3 +1,3 @@
-# sdmy
-山大马院问卷系统
-非正统fork自开源项目： PanJiaChen/vue-element-admin
+# 简介
+使用开源 iview-admin 平台搭建的问卷系统
+用于山西大学马克思主义学院
